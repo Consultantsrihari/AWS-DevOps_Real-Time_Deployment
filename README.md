@@ -1,7 +1,7 @@
 ##### AWS DevOps Real-Time Deployment - Dev → Pre-PROD → Production #####
 Completion Steps →
-fetch a code from GitHub by git clone github.com/NotHarshhaa/AWS-DevOps_Real-Time.
-Setup code commit repository on AWS
+1. fetch a code from GitHub by git clone github.com/NotHarshhaa/AWS-DevOps_Real-Time.
+2. Setup code commit repository on AWS
 push code to code commit using AWS CL
 setup aws code-build for building code
 setup S3 bucket for code storage
